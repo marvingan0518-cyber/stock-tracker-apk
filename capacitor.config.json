@@ -1,0 +1,8 @@
+{
+  "appId": "com.stocktracker.app",
+  "appName": "股票交易记录器",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
